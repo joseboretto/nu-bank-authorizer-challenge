@@ -1,5 +1,7 @@
 # nu-bank-authorizer
 
+Note: pdf uploaded was converted to an image to avoid indexation and keep it as private as possible.
+
 ## Run
 ```
 cat operations
